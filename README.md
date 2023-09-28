@@ -1,4 +1,4 @@
-## Oie! Eu sou o Gustavo Medeiros 👋
+## Oie! Eu sou o Gustavo 👋
 
 - 🌱 Atualmente estudo HTML, CSS e JavaScript
 - 📫 Você pode falar comigo pelo email: medeirosgustavo.a@gmail.com
