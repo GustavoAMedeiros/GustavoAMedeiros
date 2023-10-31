@@ -1,6 +1,6 @@
 ## Oie! Eu sou o Gustavo 👋
 
-- 🌱 Atualmente estudo C#, JavaScript, HTML e CSS
+- 🌱 Atualmente estudo com foco em C# mas também tenho conhecimentos em JavaScript, HTML e CSS
 - 📫 Você pode falar comigo pelo email: medeirosgustavo.a@gmail.com
 - 😄 Pronouns: Ele/Dele
 ##
